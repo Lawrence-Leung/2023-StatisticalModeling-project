@@ -2,7 +2,7 @@
 
 ## 🌟 项目介绍
 
-欢迎来到我们的项目仓库！本项目是我们在2023年5月参加的第九届全国大学生统计建模大赛中的参赛作品。我们的研究获得了三等奖，并于2023年8月在 CONF-BPS 会议 The 3rd International Conference on Business and Policy Studies 上成功提交并获得认可。
+欢迎来到我们的项目仓库！本项目是我们在**2023年5月参加的第九届全国大学生统计建模大赛**中的参赛作品。我们的研究获得了**三等奖**，并于**2023年8月在 CONF-BPS 会议 The 3rd International Conference on Business and Policy Studies** 上成功提交并获得认可。
 
 本研究旨在探索电动汽车产业链发展与中国特色的绿色现代化之间的关系，并通过统计建模方法量化这种关系。
 
