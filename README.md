@@ -31,6 +31,7 @@
 - 第九届全国大学生统计建模大赛三等奖。
 - CONF-BPS 会议 The 3rd International Conference on Business and Policy Studies论文接受。
 
-## 📚 引用
+## ⚖️ 版权和引用
 
-- 如果在研究中使用本仓库，请引用我们的论文和/或此GitHub仓库。
+- 本项目开源，旨在为学术和研究社区提供资源。
+- 如在研究中使用本仓库，请引用我们的论文和/或Github仓库。
