@@ -34,4 +34,6 @@
 ## ⚖️ 版权和引用
 
 - 本项目开源，旨在为学术和研究社区提供资源。
-- 如在研究中使用本仓库，请引用我们的论文和/或Github仓库。
+- 如在研究中使用本仓库，请引用我们的论文：
+
+引用格式： Liang, W., Guo, Y., & Liang, L. (2023, August). A study on the statistical measurement of China's modernization based on the electric vehicle industry chain development. In Proceedings of the 3rd International Conference on Business and Policy Studies.
